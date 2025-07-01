@@ -1,6 +1,7 @@
 # Set Up
 
 Guide: https://chipwhisperer.readthedocs.io/en/latest/windows-install.html
+
 https://theses.liacs.nl/pdf/2020-2021-BurghoornG.pdf
 
 1. Open a command prompt or powershell windows and `run wsl --install -d ubuntu`
